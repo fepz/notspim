@@ -1,0 +1,24 @@
+[PropertyInfo]
+arreglo,String[],false,false, , ,false,<por defecto>
+borderLayout1,BorderLayout,false,false, , ,false,<por defecto>
+flowLayout1,FlowLayout,false,false, , ,false,<por defecto>
+jButton1,JButton,false,false, , ,false,<por defecto>
+jButton2,JButton,false,false, , ,false,<por defecto>
+jLabel1,JLabel,false,false, , ,false,<por defecto>
+jList1,JList,false,false, , ,false,<por defecto>
+jMenuBar1,JMenuBar,false,false, , ,false,<por defecto>
+jMenuFile,JMenu,false,false, , ,false,<por defecto>
+jMenuFileExit,JMenuItem,false,false, , ,false,<por defecto>
+jMenuHelp,JMenu,false,false, , ,false,<por defecto>
+jMenuHelpAbout,JMenuItem,false,false, , ,false,<por defecto>
+jMenuItem1,JMenuItem,false,false, , ,false,<por defecto>
+jMenuItem2,JMenuItem,false,false, , ,false,<por defecto>
+jMenuItem3,JMenuItem,false,false, , ,false,<por defecto>
+jPanel1,JPanel,false,false, , ,false,<por defecto>
+jScrollPane1,JScrollPane,false,false, , ,false,<por defecto>
+jTextArea1,JTextArea,false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+

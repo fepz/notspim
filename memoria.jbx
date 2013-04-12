@@ -1,0 +1,12 @@
+[PropertyInfo]
+InsAct,int,false,false, , ,false,<por defecto>
+instruccion,String,false,false, , ,true,<por defecto>
+libreI,int,false,false, , ,false,<por defecto>
+ramD,int[],false,false, , ,false,<por defecto>
+ramI,String,false,false, , ,true,<por defecto>
+registros,int[],false,false, , ,false,<por defecto>
+[IconNames]
+
+
+
+
